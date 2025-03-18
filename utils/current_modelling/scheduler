@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+from apscheduler.schedulers.blocking import BlockingScheduler
+import subprocess
+import datetime
+import pandas as pd
+import fastf1
+
+def get_next_session_end_time(year=2025):
+    """
+    Retrieves the event schedule for the given year and searches the next event for the first
+    session that has not yet ended. We assume that the schedule DataFrame contains session end
+    time columns (e.g., "FP1_End", "FP2_End", "FP3_End", "Q_End", "R_End"). Returns a pandas
+    Timestamp representing the end of that session.
+    """
+    schedule = fastf1.get_event_schedule(year)
+    # Ensure we have valid round numbers.
+    schedule = schedule.dropna(subset=['RoundNumber'])
+    # Convert EventDate to Timestamps.
+    schedule['EventDate'] = pd.to_datetime(schedule['EventDate'])
+    now = pd.Timestamp.now()
+    # Consider only upcoming events.
+    upcoming = schedule[schedule['EventDate'] >= now]
+    if upcoming.empty:
+        print("No upcoming events found.")
+        return None
+    upcoming = upcoming.sort_values('EventDate')
+    next_event = upcoming.iloc[0]
+
+    # Define the session order to check for end times.
+    session_order = ["FP1_End", "FP2_End", "FP3_End", "Q_End", "R_End"]
+    for sess in session_order:
+        if sess in next_event and pd.notna(next_event[sess]):
+            sess_end = pd.to_datetime(next_event[sess])
+            if sess_end > now:
+                print(f"Next session end time from '{sess}': {sess_end}")
+                return sess_end
+    print("No upcoming session end time found in the next event.")
+    return None
+
+def full_pipeline():
+    """
+    Runs the full pipeline: data ingestion, feature engineering, and model retraining.
+    Adjust the subprocess calls as needed for your project.
+    """
+    print(f"[{datetime.datetime.now()}] Running full pipeline...")
+    subprocess.run(["python", "data_ingestion_combined.py"])
+    subprocess.run(["python", "feature_engineering_extended.py"])
+    subprocess.run(["python", "model_training_current.py"])
+    print(f"[{datetime.datetime.now()}] Pipeline completed.")
+
+def schedule_pipeline():
+    """
+    Determines the run time by finding the next session end time and adding 2 hours.
+    Returns a datetime object representing when to run the pipeline.
+    """
+    year = 2025
+    next_session_end = get_next_session_end_time(year)
+    if next_session_end is None:
+        return None
+    # Schedule to run 2 hours after the session end.
+    run_time = next_session_end + pd.Timedelta(hours=2)
+    print(f"Scheduling pipeline to run at {run_time}")
+    return run_time
+
+if __name__ == "__main__":
+    run_date = schedule_pipeline()
+    if run_date is None:
+        print("Unable to determine the next session end time. Exiting scheduler.")
+    else:
+        scheduler = BlockingScheduler()
+        scheduler.add_job(full_pipeline, 'date', run_date=run_date)
+        print("Scheduler started. Waiting for the scheduled run.")
+        try:
+            scheduler.start()
+        except (KeyboardInterrupt, SystemExit):
+            print("Scheduler stopped.")

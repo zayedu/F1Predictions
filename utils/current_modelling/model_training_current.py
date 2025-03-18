@@ -8,16 +8,15 @@ import numpy as np
 
 def train_qualifying_model(df):
     """
-    Trains a Gradient Boosting Regressor to predict BestQualiLap_s using current season features.
-    Uses features: DriverForm, TeamAvgPosition, RoundNumber, Weather_code, and event dummies.
-    Missing values are imputed using column means.
+    Trains a Gradient Boosting Regressor to predict BestQualiLap_s using extended features.
+    Uses features: CurrentDriverForm, LastDriverForm, TeamAvgPosition, LastTeamPerf, LastTrackPerf,
+    RoundNumber, Weather_code, and event dummies.
+    Missing values are imputed with column means.
     """
-    # Exclude non-feature columns.
     exclude_cols = ['Abbreviation', 'Year', 'BestQualiLap_s']
     feature_cols = [col for col in df.columns if col not in exclude_cols]
     target = 'BestQualiLap_s'
 
-    # Impute missing values.
     for col in feature_cols + [target]:
         mean_val = df[col].mean()
         if pd.isna(mean_val):
@@ -41,7 +40,7 @@ def train_qualifying_model(df):
     return model
 
 if __name__=="__main__":
-    df = pd.read_csv("f1_current_season_features.csv")
+    df = pd.read_csv("f1_current_season_features_extended.csv")
     model = train_qualifying_model(df)
     joblib.dump(model, "current_qualifying_model.pkl")
     print("Model saved as current_qualifying_model.pkl")
