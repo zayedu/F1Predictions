@@ -9,49 +9,38 @@ import numpy as np
 def train_qualifying_model(df):
     """
     Trains a Gradient Boosting Regressor to predict BestQualiLap_s using current season features.
-    Uses DriverForm, TeamAvgPosition, RoundNumber and any Event_ dummy variables as features.
-    Missing values in both features and target are imputed using column means (or 0 if the mean is NaN).
+    Uses features: DriverForm, TeamAvgPosition, RoundNumber, Weather_code, and event dummies.
+    Missing values are imputed using column means.
     """
-    # Define base features.
-    feature_cols = ['DriverForm', 'TeamAvgPosition', 'RoundNumber']
-    # Include any columns that are one-hot encoded for events.
-    for col in df.columns:
-        if col.startswith("Event_"):
-            feature_cols.append(col)
+    # Exclude non-feature columns.
+    exclude_cols = ['Abbreviation', 'Year', 'BestQualiLap_s']
+    feature_cols = [col for col in df.columns if col not in exclude_cols]
     target = 'BestQualiLap_s'
 
-    # Impute missing values for each feature and the target.
+    # Impute missing values.
     for col in feature_cols + [target]:
-        # Compute the mean; if the column is entirely NaN, use 0.
         mean_val = df[col].mean()
         if pd.isna(mean_val):
             df[col] = df[col].fillna(0)
         else:
             df[col] = df[col].fillna(mean_val)
 
-    # If after imputation there are still NaNs (should not happen), drop them.
     df = df.dropna(subset=feature_cols + [target])
     if df.empty:
-        raise ValueError("No data left after imputing missing feature or target values.")
+        raise ValueError("No data left after imputation.")
 
     X = df[feature_cols]
     y = df[target]
 
-    # Split data into training and validation sets.
-    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=402)
-
-    # Train a Gradient Boosting Regressor.
-    model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=6, random_state=402)
+    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
+    model = GradientBoostingRegressor(n_estimators=100, learning_rate=0.1, max_depth=5, random_state=42)
     model.fit(X_train, y_train)
-
-    # Evaluate the model.
     y_pred = model.predict(X_val)
     mae = mean_absolute_error(y_val, y_pred)
     print(f"Validation MAE: {mae:.3f} seconds")
-
     return model
 
-if __name__ == "__main__":
+if __name__=="__main__":
     df = pd.read_csv("f1_current_season_features.csv")
     model = train_qualifying_model(df)
     joblib.dump(model, "current_qualifying_model.pkl")
