@@ -1,0 +1,5 @@
+utils/fastf1_cache
+.venv
+__pycache__
+*.pyc
+cache

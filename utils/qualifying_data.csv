@@ -1,0 +1,441 @@
+Driver,BestQualiLap,AvgSector1,AvgSector2,AvgSector3,Team,RoundNumber,EventName
+ALB,0 days 00:01:31.461000,0 days 00:00:33.844400,0 days 00:00:48.237625,0 days 00:00:27.967625,Williams,1,Bahrain Grand Prix
+ALO,0 days 00:01:30.336000,0 days 00:00:33.085500,0 days 00:00:47.909333333,0 days 00:00:30.080066666,Aston Martin,1,Bahrain Grand Prix
+BOT,0 days 00:01:31.443000,0 days 00:00:33.946250,0 days 00:00:47.255333333,0 days 00:00:32.299083333,Alfa Romeo,1,Bahrain Grand Prix
+DEV,0 days 00:01:32.121000,0 days 00:00:32.397333333,0 days 00:00:47.408250,0 days 00:00:27.448625,AlphaTauri,1,Bahrain Grand Prix
+GAS,0 days 00:01:31.818000,0 days 00:00:32.246500,0 days 00:00:46.502666666,0 days 00:00:31.649166666,Alpine,1,Bahrain Grand Prix
+HAM,0 days 00:01:30.384000,0 days 00:00:32.128400,0 days 00:00:47.887933333,0 days 00:00:29.213933333,Mercedes,1,Bahrain Grand Prix
+HUL,0 days 00:01:30.809000,0 days 00:00:31.758636363,0 days 00:00:48.116823529,0 days 00:00:29.863562500,Haas F1 Team,1,Bahrain Grand Prix
+LEC,0 days 00:01:30,0 days 00:00:34.371500,0 days 00:00:50.523062500,0 days 00:00:28.796062500,Ferrari,1,Bahrain Grand Prix
+MAG,0 days 00:01:31.892000,0 days 00:00:34.054250,0 days 00:00:45.516000,0 days 00:00:29.028833333,Haas F1 Team,1,Bahrain Grand Prix
+NOR,0 days 00:01:31.381000,0 days 00:00:32.414500,0 days 00:00:47.018916666,0 days 00:00:30.196166666,McLaren,1,Bahrain Grand Prix
+OCO,0 days 00:01:30.914000,0 days 00:00:33.446200,0 days 00:00:48.955333333,0 days 00:00:28.600500,Alpine,1,Bahrain Grand Prix
+PER,0 days 00:01:29.846000,0 days 00:00:32.840333333,0 days 00:00:49.170357142,0 days 00:00:31.321071428,Red Bull Racing,1,Bahrain Grand Prix
+PIA,0 days 00:01:32.101000,0 days 00:00:33.272250,0 days 00:00:46.283000,0 days 00:00:32.934333333,McLaren,1,Bahrain Grand Prix
+RUS,0 days 00:01:30.340000,0 days 00:00:33.956800,0 days 00:00:48.739666666,0 days 00:00:29.935466666,Mercedes,1,Bahrain Grand Prix
+SAI,0 days 00:01:30.154000,0 days 00:00:32.309181818,0 days 00:00:47.302529411,0 days 00:00:27.702187500,Ferrari,1,Bahrain Grand Prix
+SAR,0 days 00:01:31.652000,0 days 00:00:32.318000,0 days 00:00:47.360166666,0 days 00:00:32.473500,Williams,1,Bahrain Grand Prix
+STR,0 days 00:01:30.836000,0 days 00:00:32.593333333,0 days 00:00:46.165500,0 days 00:00:29.050352941,Aston Martin,1,Bahrain Grand Prix
+TSU,0 days 00:01:31.400000,0 days 00:00:33.488000,0 days 00:00:47.402857142,0 days 00:00:28.086214285,AlphaTauri,1,Bahrain Grand Prix
+VER,0 days 00:01:29.708000,0 days 00:00:35.146333333,0 days 00:00:48.145428571,0 days 00:00:30.077857142,Red Bull Racing,1,Bahrain Grand Prix
+ZHO,0 days 00:01:31.473000,0 days 00:00:33.827625,0 days 00:00:46.905666666,0 days 00:00:31.152416666,Alfa Romeo,1,Bahrain Grand Prix
+ALB,0 days 00:01:29.994000,0 days 00:00:39.390857142,0 days 00:00:34.446444444,0 days 00:00:34.574555555,Williams,2,Saudi Arabian Grand Prix
+ALO,0 days 00:01:28.730000,0 days 00:00:38.071923076,0 days 00:00:31.846611111,0 days 00:00:34.493555555,Aston Martin,2,Saudi Arabian Grand Prix
+BOT,0 days 00:01:29.668000,0 days 00:00:38.398071428,0 days 00:00:33.190722222,0 days 00:00:35.381722222,Alfa Romeo,2,Saudi Arabian Grand Prix
+DEV,0 days 00:01:30.244000,0 days 00:00:44.807875,0 days 00:00:32.334600,0 days 00:00:36.464800,AlphaTauri,2,Saudi Arabian Grand Prix
+GAS,0 days 00:01:29.357000,0 days 00:00:37.633833333,0 days 00:00:31.830695652,0 days 00:00:34.531304347,Alpine,2,Saudi Arabian Grand Prix
+HAM,0 days 00:01:29.223000,0 days 00:00:38.720266666,0 days 00:00:32.405666666,0 days 00:00:35.720000,Mercedes,2,Saudi Arabian Grand Prix
+HUL,0 days 00:01:29.451000,0 days 00:00:38.551500,0 days 00:00:33.723388888,0 days 00:00:35.129000,Haas F1 Team,2,Saudi Arabian Grand Prix
+LEC,0 days 00:01:28.420000,0 days 00:00:40.021400,0 days 00:00:37.726052631,0 days 00:00:37.309684210,Ferrari,2,Saudi Arabian Grand Prix
+MAG,0 days 00:01:29.517000,0 days 00:00:40.994692307,0 days 00:00:35.192823529,0 days 00:00:37.172470588,Haas F1 Team,2,Saudi Arabian Grand Prix
+NOR,0 days 00:01:30.447000,0 days 00:00:42.052333333,0 days 00:00:34.770000,0 days 00:00:39.154000,McLaren,2,Saudi Arabian Grand Prix
+OCO,0 days 00:01:29.078000,0 days 00:00:37.376421052,0 days 00:00:32.956791666,0 days 00:00:34.271708333,Alpine,2,Saudi Arabian Grand Prix
+PER,0 days 00:01:28.265000,0 days 00:00:40.207166666,0 days 00:00:34.157944444,0 days 00:00:37.387611111,Red Bull Racing,2,Saudi Arabian Grand Prix
+PIA,0 days 00:01:29.243000,0 days 00:00:39.526611111,0 days 00:00:33.079608695,0 days 00:00:35.606217391,McLaren,2,Saudi Arabian Grand Prix
+RUS,0 days 00:01:28.857000,0 days 00:00:39.237666666,0 days 00:00:33.674666666,0 days 00:00:36.143619047,Mercedes,2,Saudi Arabian Grand Prix
+SAI,0 days 00:01:28.931000,0 days 00:00:40.238578947,0 days 00:00:39.047125,0 days 00:00:37.553291666,Ferrari,2,Saudi Arabian Grand Prix
+SAR,0 days 00:01:29.721000,0 days 00:00:36.575500,0 days 00:00:33.069428571,0 days 00:00:39.010285714,Williams,2,Saudi Arabian Grand Prix
+STR,0 days 00:01:28.945000,0 days 00:00:39.739562500,0 days 00:00:33.748850,0 days 00:00:35.855300,Aston Martin,2,Saudi Arabian Grand Prix
+TSU,0 days 00:01:29.939000,0 days 00:00:41.319750,0 days 00:00:33.199600,0 days 00:00:35.782600,AlphaTauri,2,Saudi Arabian Grand Prix
+VER,0 days 00:01:28.761000,0 days 00:00:39.220500,0 days 00:00:40.984000,0 days 00:00:36.248833333,Red Bull Racing,2,Saudi Arabian Grand Prix
+ZHO,0 days 00:01:29.461000,0 days 00:00:39.039357142,0 days 00:00:32.962722222,0 days 00:00:34.573055555,Alfa Romeo,2,Saudi Arabian Grand Prix
+ALB,0 days 00:01:17.609000,0 days 00:00:35.562000,0 days 00:00:20.075259259,0 days 00:00:39.064956521,Williams,3,Australian Grand Prix
+ALO,0 days 00:01:17.139000,0 days 00:00:35.271307692,0 days 00:00:19.930280,0 days 00:00:38.711380952,Aston Martin,3,Australian Grand Prix
+BOT,0 days 00:01:18.714000,0 days 00:00:33.148833333,0 days 00:00:20.158833333,0 days 00:00:37.525000,Alfa Romeo,3,Australian Grand Prix
+DEV,0 days 00:01:18.335000,0 days 00:00:33.479909090,0 days 00:00:19.843739130,0 days 00:00:41.617150,AlphaTauri,3,Australian Grand Prix
+GAS,0 days 00:01:17.574000,0 days 00:00:32.145600,0 days 00:00:19.570720,0 days 00:00:38.917090909,Alpine,3,Australian Grand Prix
+HAM,0 days 00:01:17.104000,0 days 00:00:33.423259259,0 days 00:00:20.623407407,0 days 00:00:37.668173913,Mercedes,3,Australian Grand Prix
+HUL,0 days 00:01:17.412000,0 days 00:00:33.332461538,0 days 00:00:20.491653846,0 days 00:00:38.804190476,Haas F1 Team,3,Australian Grand Prix
+LEC,0 days 00:01:17.369000,0 days 00:00:39.587250,0 days 00:00:20.651916666,0 days 00:00:41.370250,Ferrari,3,Australian Grand Prix
+MAG,0 days 00:01:18.129000,0 days 00:00:34.389055555,0 days 00:00:20.175411764,0 days 00:00:40.006785714,Haas F1 Team,3,Australian Grand Prix
+NOR,0 days 00:01:18.119000,0 days 00:00:33.675541666,0 days 00:00:20.604826086,0 days 00:00:41.920333333,McLaren,3,Australian Grand Prix
+OCO,0 days 00:01:17.768000,0 days 00:00:33.474529411,0 days 00:00:20.385764705,0 days 00:00:40.244400,Alpine,3,Australian Grand Prix
+PER,0 days 00:01:40.187000,0 days 00:00:35.024000,0 days 00:00:19.208000,0 days 00:00:45.955000,Red Bull Racing,3,Australian Grand Prix
+PIA,0 days 00:01:18.517000,0 days 00:00:34.054916666,0 days 00:00:19.925909090,0 days 00:00:44.110500,McLaren,3,Australian Grand Prix
+RUS,0 days 00:01:16.968000,0 days 00:00:31.981892857,0 days 00:00:20.201392857,0 days 00:00:39.092166666,Mercedes,3,Australian Grand Prix
+SAI,0 days 00:01:17.270000,0 days 00:00:38.626000,0 days 00:00:20.649370370,0 days 00:00:41.787909090,Ferrari,3,Australian Grand Prix
+SAR,0 days 00:01:18.557000,0 days 00:00:32.537818181,0 days 00:00:20.224083333,0 days 00:00:43.992000,Williams,3,Australian Grand Prix
+STR,0 days 00:01:17.308000,0 days 00:00:36.393240,0 days 00:00:20.526680,0 days 00:00:40.343666666,Aston Martin,3,Australian Grand Prix
+TSU,0 days 00:01:18.099000,0 days 00:00:35.114047619,0 days 00:00:20.321909090,0 days 00:00:40.809166666,AlphaTauri,3,Australian Grand Prix
+VER,0 days 00:01:16.732000,0 days 00:00:36.075375,0 days 00:00:20.073375,0 days 00:00:36.782777777,Red Bull Racing,3,Australian Grand Prix
+ZHO,0 days 00:01:18.540000,0 days 00:00:33.637000,0 days 00:00:20.073500,0 days 00:00:41.326100,Alfa Romeo,3,Australian Grand Prix
+ALB,0 days 00:01:41.818000,0 days 00:00:40.229642857,0 days 00:00:47.044500,0 days 00:00:28.059941176,Williams,4,Azerbaijan Grand Prix
+ALO,0 days 00:01:41.253000,0 days 00:00:40.284000,0 days 00:00:47.766714285,0 days 00:00:28.322950,Aston Martin,4,Azerbaijan Grand Prix
+BOT,0 days 00:01:42.259000,0 days 00:00:40.159538461,0 days 00:00:50.736000,0 days 00:00:28.360647058,Alfa Romeo,4,Azerbaijan Grand Prix
+DEV,0 days 00:01:55.282000,0 days 00:00:41.203000,0 days 00:00:49.411500,0 days 00:00:27.490500,AlphaTauri,4,Azerbaijan Grand Prix
+GAS,0 days 00:01:44.853000,0 days 00:00:39.633666666,0 days 00:00:50.385750,0 days 00:00:27.527000,Alpine,4,Azerbaijan Grand Prix
+HAM,0 days 00:01:41.177000,0 days 00:00:39.409187500,0 days 00:00:47.143772727,0 days 00:00:27.074545454,Mercedes,4,Azerbaijan Grand Prix
+HUL,0 days 00:01:42.755000,0 days 00:00:40.972285714,0 days 00:00:48.404222222,0 days 00:00:27.120222222,Haas F1 Team,4,Azerbaijan Grand Prix
+LEC,0 days 00:01:40.203000,0 days 00:00:42.355142857,0 days 00:00:49.795800,0 days 00:00:27.296388888,Ferrari,4,Azerbaijan Grand Prix
+MAG,0 days 00:01:43.417000,0 days 00:00:40.250000,0 days 00:00:51.843000,0 days 00:00:28.357285714,Haas F1 Team,4,Azerbaijan Grand Prix
+NOR,0 days 00:01:41.281000,0 days 00:00:41.424692307,0 days 00:00:49.021526315,0 days 00:00:27.609882352,McLaren,4,Azerbaijan Grand Prix
+OCO,0 days 00:01:41.798000,0 days 00:00:40.435692307,0 days 00:00:48.558277777,0 days 00:00:28.545470588,Alpine,4,Azerbaijan Grand Prix
+PER,0 days 00:01:40.495000,0 days 00:00:40.760230769,0 days 00:00:48.591736842,0 days 00:00:30.004842105,Red Bull Racing,4,Azerbaijan Grand Prix
+PIA,0 days 00:01:41.611000,0 days 00:00:40.386647058,0 days 00:00:48.858227272,0 days 00:00:27.320047619,McLaren,4,Azerbaijan Grand Prix
+RUS,0 days 00:01:41.654000,0 days 00:00:39.381166666,0 days 00:00:47.653588235,0 days 00:00:27.581812500,Mercedes,4,Azerbaijan Grand Prix
+SAI,0 days 00:01:41.016000,0 days 00:00:43.198375,0 days 00:00:51.072727272,0 days 00:00:27.986761904,Ferrari,4,Azerbaijan Grand Prix
+SAR,0 days 00:01:42.242000,0 days 00:00:39.510000,0 days 00:00:48.928764705,0 days 00:00:28.169647058,Williams,4,Azerbaijan Grand Prix
+STR,0 days 00:01:41.576000,0 days 00:00:40.270625,0 days 00:00:49.314047619,0 days 00:00:27.988950,Aston Martin,4,Azerbaijan Grand Prix
+TSU,0 days 00:01:41.569000,0 days 00:00:40.950764705,0 days 00:00:47.576086956,0 days 00:00:28.056095238,AlphaTauri,4,Azerbaijan Grand Prix
+VER,0 days 00:01:40.391000,0 days 00:00:40.619166666,0 days 00:00:47.859000,0 days 00:00:27.846764705,Red Bull Racing,4,Azerbaijan Grand Prix
+ZHO,0 days 00:01:42.642000,0 days 00:00:43.038714285,0 days 00:00:51.293111111,0 days 00:00:28.213888888,Alfa Romeo,4,Azerbaijan Grand Prix
+ALB,0 days 00:01:27.795000,0 days 00:00:41.947384615,0 days 00:00:42.776600,0 days 00:00:33.729266666,Williams,5,Miami Grand Prix
+ALO,0 days 00:01:27.097000,0 days 00:00:37.972153846,0 days 00:00:41.361500,0 days 00:00:31.508222222,Aston Martin,5,Miami Grand Prix
+BOT,0 days 00:01:27.564000,0 days 00:00:34.982454545,0 days 00:00:39.121533333,0 days 00:00:33.898714285,Alfa Romeo,5,Miami Grand Prix
+DEV,0 days 00:01:28.325000,0 days 00:00:34.068750,0 days 00:00:38.965375,0 days 00:00:34.275062500,AlphaTauri,5,Miami Grand Prix
+GAS,0 days 00:01:27.612000,0 days 00:00:35.954076923,0 days 00:00:40.141263157,0 days 00:00:33.036210526,Alpine,5,Miami Grand Prix
+HAM,0 days 00:01:27.846000,0 days 00:00:35.409000,0 days 00:00:38.314466666,0 days 00:00:31.772285714,Mercedes,5,Miami Grand Prix
+HUL,0 days 00:01:27.903000,0 days 00:00:34.200090909,0 days 00:00:40.563133333,0 days 00:00:31.852466666,Haas F1 Team,5,Miami Grand Prix
+LEC,0 days 00:01:26.964000,0 days 00:00:36.639571428,0 days 00:00:43.590166666,0 days 00:00:31.105166666,Ferrari,5,Miami Grand Prix
+MAG,0 days 00:01:27.673000,0 days 00:00:35.284000,0 days 00:00:42.002789473,0 days 00:00:32.968500,Haas F1 Team,5,Miami Grand Prix
+NOR,0 days 00:01:28.394000,0 days 00:00:36.637166666,0 days 00:00:42.810625,0 days 00:00:36.687750,McLaren,5,Miami Grand Prix
+OCO,0 days 00:01:27.444000,0 days 00:00:34.720615384,0 days 00:00:40.482842105,0 days 00:00:33.434315789,Alpine,5,Miami Grand Prix
+PER,0 days 00:01:26.841000,0 days 00:00:36.418214285,0 days 00:00:43.382350,0 days 00:00:35.612789473,Red Bull Racing,5,Miami Grand Prix
+PIA,0 days 00:01:28.484000,0 days 00:00:38.867571428,0 days 00:00:42.350444444,0 days 00:00:34.007666666,McLaren,5,Miami Grand Prix
+RUS,0 days 00:01:27.743000,0 days 00:00:36.605928571,0 days 00:00:40.027578947,0 days 00:00:32.279631578,Mercedes,5,Miami Grand Prix
+SAI,0 days 00:01:27.148000,0 days 00:00:37.826285714,0 days 00:00:43.517647058,0 days 00:00:34.949058823,Ferrari,5,Miami Grand Prix
+SAR,0 days 00:01:28.577000,0 days 00:00:43.381111111,0 days 00:00:40.634600,0 days 00:00:32.342800,Williams,5,Miami Grand Prix
+STR,0 days 00:01:28.476000,0 days 00:00:43.145285714,0 days 00:00:42.842375,0 days 00:00:30.188625,Aston Martin,5,Miami Grand Prix
+TSU,0 days 00:01:28.429000,0 days 00:00:35.492250,0 days 00:00:39.367600,0 days 00:00:36.322700,AlphaTauri,5,Miami Grand Prix
+VER,0 days 00:01:26.814000,0 days 00:00:36.582800,0 days 00:00:41.804666666,0 days 00:00:31.855142857,Red Bull Racing,5,Miami Grand Prix
+ZHO,0 days 00:01:28.091000,0 days 00:00:36.034230769,0 days 00:00:39.003529411,0 days 00:00:35.582352941,Alfa Romeo,5,Miami Grand Prix
+ALB,0 days 00:01:12.527000,0 days 00:00:23.748055555,0 days 00:00:41.337833333,0 days 00:00:23.388642857,Williams,6,Monaco Grand Prix
+ALO,0 days 00:01:11.449000,0 days 00:00:23.613880,0 days 00:00:41.316440,0 days 00:00:23.764736842,Aston Martin,6,Monaco Grand Prix
+BOT,0 days 00:01:12.625000,0 days 00:00:24.564571428,0 days 00:00:42.342714285,0 days 00:00:24.319777777,Alfa Romeo,6,Monaco Grand Prix
+DEV,0 days 00:01:12.428000,0 days 00:00:25.007700,0 days 00:00:39.335157894,0 days 00:00:23.080200,AlphaTauri,6,Monaco Grand Prix
+GAS,0 days 00:01:11.933000,0 days 00:00:23.802880,0 days 00:00:41.640541666,0 days 00:00:24.183000,Alpine,6,Monaco Grand Prix
+HAM,0 days 00:01:11.725000,0 days 00:00:24.078533333,0 days 00:00:39.888000,0 days 00:00:27.290692307,Mercedes,6,Monaco Grand Prix
+HUL,0 days 00:01:13.279000,0 days 00:00:24.912000,0 days 00:00:42.205500,0 days 00:00:25.998333333,Haas F1 Team,6,Monaco Grand Prix
+LEC,0 days 00:01:11.471000,0 days 00:00:24.926730769,0 days 00:00:42.936640,0 days 00:00:28.017571428,Ferrari,6,Monaco Grand Prix
+MAG,0 days 00:01:13.270000,0 days 00:00:25.578666666,0 days 00:00:42.180000,0 days 00:00:26.363714285,Haas F1 Team,6,Monaco Grand Prix
+NOR,0 days 00:01:12.254000,0 days 00:00:24.952045454,0 days 00:00:42.534590909,0 days 00:00:23.705833333,McLaren,6,Monaco Grand Prix
+OCO,0 days 00:01:11.553000,0 days 00:00:24.813280,0 days 00:00:40.804440,0 days 00:00:24.454050,Alpine,6,Monaco Grand Prix
+PER,0 days 00:01:13.850000,0 days 00:00:29.643250,0 days 00:00:46.139000,0 days 00:00:24.976666666,Red Bull Racing,6,Monaco Grand Prix
+PIA,0 days 00:01:12.395000,0 days 00:00:24.265238095,0 days 00:00:40.972476190,0 days 00:00:25.287611111,McLaren,6,Monaco Grand Prix
+RUS,0 days 00:01:11.964000,0 days 00:00:24.609034482,0 days 00:00:41.605357142,0 days 00:00:24.306083333,Mercedes,6,Monaco Grand Prix
+SAI,0 days 00:01:11.630000,0 days 00:00:25.883444444,0 days 00:00:42.295296296,0 days 00:00:29.442304347,Ferrari,6,Monaco Grand Prix
+SAR,0 days 00:01:13.113000,0 days 00:00:24.939307692,0 days 00:00:39.326250,0 days 00:00:24.243100,Williams,6,Monaco Grand Prix
+STR,0 days 00:01:12.623000,0 days 00:00:23.601611111,0 days 00:00:40.046111111,0 days 00:00:23.953666666,Aston Martin,6,Monaco Grand Prix
+TSU,0 days 00:01:12.082000,0 days 00:00:24.685482758,0 days 00:00:39.662714285,0 days 00:00:25.672391304,AlphaTauri,6,Monaco Grand Prix
+VER,0 days 00:01:11.365000,0 days 00:00:24.882214285,0 days 00:00:42.274931034,0 days 00:00:25.417480,Red Bull Racing,6,Monaco Grand Prix
+ZHO,0 days 00:01:13.523000,0 days 00:00:25.123666666,0 days 00:00:41.879166666,0 days 00:00:24.707000,Alfa Romeo,6,Monaco Grand Prix
+ALB,0 days 00:01:14.063000,0 days 00:00:25.877800,0 days 00:00:38.167000,0 days 00:00:29.544571428,Williams,7,Spanish Grand Prix
+ALO,0 days 00:01:13.098000,0 days 00:00:25.809272727,0 days 00:00:34.033705882,0 days 00:00:27.486875,Aston Martin,7,Spanish Grand Prix
+BOT,0 days 00:01:13.977000,0 days 00:00:27.501142857,0 days 00:00:35.224200,0 days 00:00:33.958444444,Alfa Romeo,7,Spanish Grand Prix
+DEV,0 days 00:01:13.581000,0 days 00:00:26.304454545,0 days 00:00:33.297937500,0 days 00:00:32.000933333,AlphaTauri,7,Spanish Grand Prix
+GAS,0 days 00:01:12.816000,0 days 00:00:25.473000,0 days 00:00:34.822750,0 days 00:00:29.639684210,Alpine,7,Spanish Grand Prix
+HAM,0 days 00:01:12.818000,0 days 00:00:26.267066666,0 days 00:00:34.699090909,0 days 00:00:28.828333333,Mercedes,7,Spanish Grand Prix
+HUL,0 days 00:01:13.229000,0 days 00:00:23.434363636,0 days 00:00:33.633588235,0 days 00:00:28.191294117,Haas F1 Team,7,Spanish Grand Prix
+LEC,0 days 00:01:14.079000,0 days 00:00:25.773142857,0 days 00:00:36.926222222,0 days 00:00:30.739333333,Ferrari,7,Spanish Grand Prix
+MAG,0 days 00:01:14.042000,0 days 00:00:23.331600,0 days 00:00:34.329625,0 days 00:00:27.533125,Haas F1 Team,7,Spanish Grand Prix
+NOR,0 days 00:01:12.776000,0 days 00:00:25.208933333,0 days 00:00:35.017285714,0 days 00:00:28.645350,McLaren,7,Spanish Grand Prix
+OCO,0 days 00:01:13.001000,0 days 00:00:24.551384615,0 days 00:00:35.707700,0 days 00:00:29.728736842,Alpine,7,Spanish Grand Prix
+PER,0 days 00:01:13.334000,0 days 00:00:25.451416666,0 days 00:00:38.340235294,0 days 00:00:30.716500,Red Bull Racing,7,Spanish Grand Prix
+PIA,0 days 00:01:13.059000,0 days 00:00:24.923615384,0 days 00:00:34.502157894,0 days 00:00:32.775500,McLaren,7,Spanish Grand Prix
+RUS,0 days 00:01:13.326000,0 days 00:00:25.605923076,0 days 00:00:35.169352941,0 days 00:00:29.332882352,Mercedes,7,Spanish Grand Prix
+SAI,0 days 00:01:12.734000,0 days 00:00:26.761400,0 days 00:00:36.094476190,0 days 00:00:29.327550,Ferrari,7,Spanish Grand Prix
+SAR,0 days 00:01:14.699000,0 days 00:00:25.275500,0 days 00:00:36.654833333,0 days 00:00:29.826833333,Williams,7,Spanish Grand Prix
+STR,0 days 00:01:12.994000,0 days 00:00:24.962600,0 days 00:00:34.767000,0 days 00:00:28.602952380,Aston Martin,7,Spanish Grand Prix
+TSU,0 days 00:01:13.316000,0 days 00:00:25.044538461,0 days 00:00:34.525000,0 days 00:00:29.459222222,AlphaTauri,7,Spanish Grand Prix
+VER,0 days 00:01:12.272000,0 days 00:00:27.344642857,0 days 00:00:39.691157894,0 days 00:00:27.727166666,Red Bull Racing,7,Spanish Grand Prix
+ZHO,0 days 00:01:13.521000,0 days 00:00:27.030818181,0 days 00:00:35.222875,0 days 00:00:33.652666666,Alfa Romeo,7,Spanish Grand Prix
+ALB,0 days 00:01:18.725000,0 days 00:00:27.676681818,0 days 00:00:28.739272727,0 days 00:00:36.117842105,Williams,8,Canadian Grand Prix
+ALO,0 days 00:01:19.776000,0 days 00:00:28.167120,0 days 00:00:29.240320,0 days 00:00:36.860500,Aston Martin,8,Canadian Grand Prix
+BOT,0 days 00:01:21.821000,0 days 00:00:27.395545454,0 days 00:00:29.104652173,0 days 00:00:38.160952380,Alfa Romeo,8,Canadian Grand Prix
+DEV,0 days 00:01:23.137000,0 days 00:00:28.204909090,0 days 00:00:29.260272727,0 days 00:00:36.242700,AlphaTauri,8,Canadian Grand Prix
+GAS,0 days 00:01:22.886000,0 days 00:00:26.491909090,0 days 00:00:29.795090909,0 days 00:00:35.356200,Alpine,8,Canadian Grand Prix
+HAM,0 days 00:01:20.426000,0 days 00:00:28.704400,0 days 00:00:29.562375,0 days 00:00:38.095285714,Mercedes,8,Canadian Grand Prix
+HUL,0 days 00:01:20.305000,0 days 00:00:27.017043478,0 days 00:00:28.121434782,0 days 00:00:36.872000,Haas F1 Team,8,Canadian Grand Prix
+LEC,0 days 00:01:20.615000,0 days 00:00:26.510363636,0 days 00:00:28.436727272,0 days 00:00:38.363052631,Ferrari,8,Canadian Grand Prix
+MAG,0 days 00:01:21.678000,0 days 00:00:26.829904761,0 days 00:00:28.232850,0 days 00:00:41.622777777,Haas F1 Team,8,Canadian Grand Prix
+NOR,0 days 00:01:19.347000,0 days 00:00:27.095291666,0 days 00:00:28.996346153,0 days 00:00:36.160636363,McLaren,8,Canadian Grand Prix
+OCO,0 days 00:01:20.406000,0 days 00:00:27.434739130,0 days 00:00:28.942375,0 days 00:00:36.381250,Alpine,8,Canadian Grand Prix
+PER,0 days 00:01:20.959000,0 days 00:00:25.833333333,0 days 00:00:28.350272727,0 days 00:00:37.778380952,Red Bull Racing,8,Canadian Grand Prix
+PIA,0 days 00:01:19.659000,0 days 00:00:28.565291666,0 days 00:00:29.373347826,0 days 00:00:37.308950,McLaren,8,Canadian Grand Prix
+RUS,0 days 00:01:20.098000,0 days 00:00:28.184720,0 days 00:00:29.573782608,0 days 00:00:38.821473684,Mercedes,8,Canadian Grand Prix
+SAI,0 days 00:01:19.856000,0 days 00:00:27.655480,0 days 00:00:28.749480,0 days 00:00:38.172136363,Ferrari,8,Canadian Grand Prix
+SAR,0 days 00:01:23.337000,0 days 00:00:27.625500,0 days 00:00:28.753076923,0 days 00:00:37.357615384,Williams,8,Canadian Grand Prix
+STR,0 days 00:01:21.484000,0 days 00:00:27.157550,0 days 00:00:29.519350,0 days 00:00:40.315588235,Aston Martin,8,Canadian Grand Prix
+TSU,0 days 00:01:22.746000,0 days 00:00:29.378636363,0 days 00:00:29.036636363,0 days 00:00:39.217111111,AlphaTauri,8,Canadian Grand Prix
+VER,0 days 00:01:19.092000,0 days 00:00:25.618904761,0 days 00:00:28.678080,0 days 00:00:34.863272727,Red Bull Racing,8,Canadian Grand Prix
+ZHO,0 days 00:01:23.342000,0 days 00:00:33.217181818,0 days 00:00:29.234900,0 days 00:00:39.055777777,Alfa Romeo,8,Canadian Grand Prix
+ALB,0 days 00:01:05.340000,0 days 00:00:18.970642857,0 days 00:00:34.725000,0 days 00:00:25.953750,Williams,9,Austrian Grand Prix
+ALO,0 days 00:01:04.911000,0 days 00:00:18.845368421,0 days 00:00:35.833038461,0 days 00:00:25.155320,Aston Martin,9,Austrian Grand Prix
+BOT,0 days 00:01:05.513000,0 days 00:00:19.028500,0 days 00:00:34.439692307,0 days 00:00:29.435076923,Alfa Romeo,9,Austrian Grand Prix
+DEV,0 days 00:01:05.974000,0 days 00:00:19.256000,0 days 00:00:36.627200,0 days 00:00:28.708700,AlphaTauri,9,Austrian Grand Prix
+GAS,0 days 00:01:05.084000,0 days 00:00:19.793571428,0 days 00:00:34.888700,0 days 00:00:25.895894736,Alpine,9,Austrian Grand Prix
+HAM,0 days 00:01:04.819000,0 days 00:00:19.947388888,0 days 00:00:36.657250,0 days 00:00:27.061260869,Mercedes,9,Austrian Grand Prix
+HUL,0 days 00:01:05.090000,0 days 00:00:20.373777777,0 days 00:00:37.836583333,0 days 00:00:27.793818181,Haas F1 Team,9,Austrian Grand Prix
+LEC,0 days 00:01:04.439000,0 days 00:00:20.376100,0 days 00:00:38.153960,0 days 00:00:28.089200,Ferrari,9,Austrian Grand Prix
+MAG,0 days 00:01:05.793000,0 days 00:00:23.007125,0 days 00:00:42.240500,0 days 00:00:29.150222222,Haas F1 Team,9,Austrian Grand Prix
+NOR,0 days 00:01:04.658000,0 days 00:00:19.948933333,0 days 00:00:37.023500,0 days 00:00:28.921190476,McLaren,9,Austrian Grand Prix
+OCO,0 days 00:01:05.295000,0 days 00:00:19.171900,0 days 00:00:35.091800,0 days 00:00:28.333214285,Alpine,9,Austrian Grand Prix
+PER,0 days 00:01:04.990000,0 days 00:00:21.904357142,0 days 00:00:41.337222222,0 days 00:00:29.388666666,Red Bull Racing,9,Austrian Grand Prix
+PIA,0 days 00:01:05.213000,0 days 00:00:21.491066666,0 days 00:00:39.113722222,0 days 00:00:28.713611111,McLaren,9,Austrian Grand Prix
+RUS,0 days 00:01:05.408000,0 days 00:00:20.741600,0 days 00:00:35.881550,0 days 00:00:27.541800,Mercedes,9,Austrian Grand Prix
+SAI,0 days 00:01:04.581000,0 days 00:00:24.689894736,0 days 00:00:37.330166666,0 days 00:00:27.953041666,Ferrari,9,Austrian Grand Prix
+SAR,0 days 00:01:05.948000,0 days 00:00:17.688666666,0 days 00:00:34.256444444,0 days 00:00:31.418555555,Williams,9,Austrian Grand Prix
+STR,0 days 00:01:04.893000,0 days 00:00:20.900631578,0 days 00:00:38.549320,0 days 00:00:28.304086956,Aston Martin,9,Austrian Grand Prix
+TSU,0 days 00:01:05.784000,0 days 00:00:18.914142857,0 days 00:00:34.602100,0 days 00:00:27.983100,AlphaTauri,9,Austrian Grand Prix
+VER,0 days 00:01:04.391000,0 days 00:00:25.494388888,0 days 00:00:41.577434782,0 days 00:00:27.764913043,Red Bull Racing,9,Austrian Grand Prix
+ZHO,0 days 00:01:05.818000,0 days 00:00:19.316500,0 days 00:00:36.813666666,0 days 00:00:29.956500,Alfa Romeo,9,Austrian Grand Prix
+ALB,0 days 00:01:27.530000,0 days 00:00:33.477210526,0 days 00:00:42.462666666,0 days 00:00:29.141791666,Williams,10,British Grand Prix
+ALO,0 days 00:01:27.659000,0 days 00:00:31.181705882,0 days 00:00:42.386304347,0 days 00:00:29.436863636,Aston Martin,10,British Grand Prix
+BOT,0 days 00:01:29.798000,0 days 00:00:38.787111111,0 days 00:00:41.147400,0 days 00:00:28.896222222,Alfa Romeo,10,British Grand Prix
+DEV,0 days 00:01:30.513000,0 days 00:00:34.802333333,0 days 00:00:43.351600,0 days 00:00:31.261300,AlphaTauri,10,British Grand Prix
+GAS,0 days 00:01:27.689000,0 days 00:00:32.563555555,0 days 00:00:42.786913043,0 days 00:00:30.037391304,Alpine,10,British Grand Prix
+HAM,0 days 00:01:27.211000,0 days 00:00:33.372789473,0 days 00:00:43.831240,0 days 00:00:29.969541666,Mercedes,10,British Grand Prix
+HUL,0 days 00:01:28.896000,0 days 00:00:32.899384615,0 days 00:00:41.991117647,0 days 00:00:30.651125,Haas F1 Team,10,British Grand Prix
+LEC,0 days 00:01:27.136000,0 days 00:00:33.370368421,0 days 00:00:41.617375,0 days 00:00:30.271750,Ferrari,10,British Grand Prix
+MAG,0 days 00:01:32.378000,0 days 00:00:39.464666666,0 days 00:00:45.922000,0 days 00:00:34.635571428,Haas F1 Team,10,British Grand Prix
+NOR,0 days 00:01:26.961000,0 days 00:00:34.040700,0 days 00:00:42.896720,0 days 00:00:29.576083333,McLaren,10,British Grand Prix
+OCO,0 days 00:01:28.956000,0 days 00:00:31.883928571,0 days 00:00:42.270444444,0 days 00:00:31.078117647,Alpine,10,British Grand Prix
+PER,0 days 00:01:29.968000,0 days 00:00:32.682875,0 days 00:00:43.584100,0 days 00:00:31.933600,Red Bull Racing,10,British Grand Prix
+PIA,0 days 00:01:27.092000,0 days 00:00:35.394142857,0 days 00:00:42.554600,0 days 00:00:30.747500,McLaren,10,British Grand Prix
+RUS,0 days 00:01:27.155000,0 days 00:00:32.156333333,0 days 00:00:43.750041666,0 days 00:00:29.240913043,Mercedes,10,British Grand Prix
+SAI,0 days 00:01:27.148000,0 days 00:00:32.686052631,0 days 00:00:42.094080,0 days 00:00:30.410680,Ferrari,10,British Grand Prix
+SAR,0 days 00:01:29.031000,0 days 00:00:34.678933333,0 days 00:00:42.727944444,0 days 00:00:29.648722222,Williams,10,British Grand Prix
+STR,0 days 00:01:28.935000,0 days 00:00:31.191000,0 days 00:00:42.375222222,0 days 00:00:30.115944444,Aston Martin,10,British Grand Prix
+TSU,0 days 00:01:30.025000,0 days 00:00:34.930555555,0 days 00:00:43.063000,0 days 00:00:33.155700,AlphaTauri,10,British Grand Prix
+VER,0 days 00:01:26.720000,0 days 00:00:34.276550,0 days 00:00:43.006200,0 days 00:00:29.982625,Red Bull Racing,10,British Grand Prix
+ZHO,0 days 00:01:30.123000,0 days 00:00:35.336222222,0 days 00:00:43.968454545,0 days 00:00:29.037600,Alfa Romeo,10,British Grand Prix
+ALB,0 days 00:01:18.917000,0 days 00:00:33.527500,0 days 00:00:34.403125,0 days 00:00:27.162000,Williams,11,Hungarian Grand Prix
+ALO,0 days 00:01:17.035000,0 days 00:00:34.155733333,0 days 00:00:35.734000,0 days 00:00:29.729571428,Aston Martin,11,Hungarian Grand Prix
+BOT,0 days 00:01:17.034000,0 days 00:00:34.526714285,0 days 00:00:33.685650,0 days 00:00:29.069315789,Alfa Romeo,11,Hungarian Grand Prix
+GAS,0 days 00:01:18.045000,0 days 00:00:31.104181818,0 days 00:00:32.462437500,0 days 00:00:28.728625,Alpine,11,Hungarian Grand Prix
+HAM,0 days 00:01:16.609000,0 days 00:00:34.027214285,0 days 00:00:36.208400,0 days 00:00:28.264900,Mercedes,11,Hungarian Grand Prix
+HUL,0 days 00:01:17.186000,0 days 00:00:31.397642857,0 days 00:00:34.276650,0 days 00:00:29.029550,Haas F1 Team,11,Hungarian Grand Prix
+LEC,0 days 00:01:16.992000,0 days 00:00:32.728200,0 days 00:00:33.956380952,0 days 00:00:29.536333333,Ferrari,11,Hungarian Grand Prix
+MAG,0 days 00:01:19.206000,0 days 00:00:33.303333333,0 days 00:00:34.237375,0 days 00:00:31.109750,Haas F1 Team,11,Hungarian Grand Prix
+NOR,0 days 00:01:16.694000,0 days 00:00:33.146533333,0 days 00:00:34.459700,0 days 00:00:27.916250,McLaren,11,Hungarian Grand Prix
+OCO,0 days 00:01:17.841000,0 days 00:00:32.072363636,0 days 00:00:32.703187500,0 days 00:00:29.208000,Alpine,11,Hungarian Grand Prix
+PER,0 days 00:01:17.045000,0 days 00:00:34.715529411,0 days 00:00:36.171695652,0 days 00:00:27.609695652,Red Bull Racing,11,Hungarian Grand Prix
+PIA,0 days 00:01:16.905000,0 days 00:00:31.177714285,0 days 00:00:35.656750,0 days 00:00:31.964950,McLaren,11,Hungarian Grand Prix
+RIC,0 days 00:01:18.002000,0 days 00:00:31.547000,0 days 00:00:34.069200,0 days 00:00:29.736000,AlphaTauri,11,Hungarian Grand Prix
+RUS,0 days 00:01:19.027000,0 days 00:00:34.494857142,0 days 00:00:35.239555555,0 days 00:00:32.083333333,Mercedes,11,Hungarian Grand Prix
+SAI,0 days 00:01:17.703000,0 days 00:00:33.957545454,0 days 00:00:34.346800,0 days 00:00:29.780133333,Ferrari,11,Hungarian Grand Prix
+SAR,0 days 00:01:19.248000,0 days 00:00:32.387166666,0 days 00:00:34.032750,0 days 00:00:28.269125,Williams,11,Hungarian Grand Prix
+STR,0 days 00:01:17.861000,0 days 00:00:34.049285714,0 days 00:00:35.597333333,0 days 00:00:30.301777777,Aston Martin,11,Hungarian Grand Prix
+TSU,0 days 00:01:18.919000,0 days 00:00:31.356500,0 days 00:00:31.714000,0 days 00:00:30.269000,AlphaTauri,11,Hungarian Grand Prix
+VER,0 days 00:01:16.612000,0 days 00:00:32.131933333,0 days 00:00:34.771904761,0 days 00:00:29.273000,Red Bull Racing,11,Hungarian Grand Prix
+ZHO,0 days 00:01:16.971000,0 days 00:00:33.035750,0 days 00:00:34.450318181,0 days 00:00:28.329857142,Alfa Romeo,11,Hungarian Grand Prix
+ALB,0 days 00:02:00.314000,0 days 00:00:34.048000,0 days 00:00:59.881250,0 days 00:00:37.826375,Williams,12,Belgian Grand Prix
+ALO,0 days 00:01:47.843000,0 days 00:00:38.662705882,0 days 00:00:58.002909090,0 days 00:00:37.453047619,Aston Martin,12,Belgian Grand Prix
+BOT,0 days 00:01:54.694000,0 days 00:00:38.801600,0 days 00:01:00.873117647,0 days 00:00:36.495529411,Alfa Romeo,12,Belgian Grand Prix
+GAS,0 days 00:01:53.671000,0 days 00:00:38.374733333,0 days 00:00:59.404235294,0 days 00:00:39.320882352,Alpine,12,Belgian Grand Prix
+HAM,0 days 00:01:47.087000,0 days 00:00:39.147350,0 days 00:00:57.283250,0 days 00:00:37.018434782,Mercedes,12,Belgian Grand Prix
+HUL,0 days 00:02:03.166000,0 days 00:00:34.103333333,0 days 00:00:58.622800,0 days 00:00:40.652600,Haas F1 Team,12,Belgian Grand Prix
+LEC,0 days 00:01:46.988000,0 days 00:00:37.791105263,0 days 00:00:57.910260869,0 days 00:00:38.394772727,Ferrari,12,Belgian Grand Prix
+MAG,0 days 00:01:54.160000,0 days 00:00:34.929307692,0 days 00:00:59.557941176,0 days 00:00:40.293941176,Haas F1 Team,12,Belgian Grand Prix
+NOR,0 days 00:01:47.669000,0 days 00:00:38.164058823,0 days 00:00:55.015619047,0 days 00:00:35.231800,McLaren,12,Belgian Grand Prix
+OCO,0 days 00:01:56.372000,0 days 00:00:39.258090909,0 days 00:01:01.791769230,0 days 00:00:41.044153846,Alpine,12,Belgian Grand Prix
+PER,0 days 00:01:47.045000,0 days 00:00:37.620555555,0 days 00:00:58.389590909,0 days 00:00:38.001333333,Red Bull Racing,12,Belgian Grand Prix
+PIA,0 days 00:01:47.365000,0 days 00:00:38.466736842,0 days 00:00:57.071521739,0 days 00:00:37.944318181,McLaren,12,Belgian Grand Prix
+RIC,0 days 00:01:59.483000,0 days 00:00:37.210166666,0 days 00:01:01.878250,0 days 00:00:41.887375,AlphaTauri,12,Belgian Grand Prix
+RUS,0 days 00:01:47.805000,0 days 00:00:37.421842105,0 days 00:00:56.668458333,0 days 00:00:36.938217391,Mercedes,12,Belgian Grand Prix
+SAI,0 days 00:01:47.152000,0 days 00:00:38.104473684,0 days 00:00:57.266739130,0 days 00:00:37.192818181,Ferrari,12,Belgian Grand Prix
+SAR,0 days 00:02:01.535000,0 days 00:00:36.911600,0 days 00:01:01.228666666,0 days 00:00:37.168333333,Williams,12,Belgian Grand Prix
+STR,0 days 00:01:48.841000,0 days 00:00:38.527941176,0 days 00:00:57.451681818,0 days 00:00:37.386714285,Aston Martin,12,Belgian Grand Prix
+TSU,0 days 00:01:53.148000,0 days 00:00:35.601454545,0 days 00:00:59.495133333,0 days 00:00:42.335066666,AlphaTauri,12,Belgian Grand Prix
+VER,0 days 00:01:46.168000,0 days 00:00:38.238055555,0 days 00:00:57.840681818,0 days 00:00:39.244727272,Red Bull Racing,12,Belgian Grand Prix
+ZHO,0 days 00:02:00.832000,0 days 00:00:38.604500,0 days 00:01:01.162000,0 days 00:00:43.756888888,Alfa Romeo,12,Belgian Grand Prix
+ALB,0 days 00:01:11.419000,0 days 00:00:33.927703703,0 days 00:00:31.983333333,0 days 00:00:28.372724137,Williams,13,Dutch Grand Prix
+ALO,0 days 00:01:11.506000,0 days 00:00:31.759320,0 days 00:00:30.023833333,0 days 00:00:29.325629629,Aston Martin,13,Dutch Grand Prix
+BOT,0 days 00:01:22.260000,0 days 00:00:35.729090909,0 days 00:00:31.396000,0 days 00:00:29.581583333,Alfa Romeo,13,Dutch Grand Prix
+GAS,0 days 00:01:20.128000,0 days 00:00:34.525789473,0 days 00:00:31.095714285,0 days 00:00:31.029095238,Alpine,13,Dutch Grand Prix
+HAM,0 days 00:01:20.151000,0 days 00:00:31.602619047,0 days 00:00:30.066043478,0 days 00:00:29.424913043,Mercedes,13,Dutch Grand Prix
+HUL,0 days 00:01:20.250000,0 days 00:00:30.579937500,0 days 00:00:30.198550,0 days 00:00:28.952300,Haas F1 Team,13,Dutch Grand Prix
+LAW,0 days 00:01:23.420000,0 days 00:00:34.709000,0 days 00:00:31.510166666,0 days 00:00:30.631583333,AlphaTauri,13,Dutch Grand Prix
+LEC,0 days 00:01:12.665000,0 days 00:00:33.737739130,0 days 00:00:29.563576923,0 days 00:00:30.385360,Ferrari,13,Dutch Grand Prix
+MAG,0 days 00:01:22.192000,0 days 00:00:36.613100,0 days 00:00:33.537363636,0 days 00:00:30.202727272,Haas F1 Team,13,Dutch Grand Prix
+NOR,0 days 00:01:11.104000,0 days 00:00:30.495600,0 days 00:00:29.921344827,0 days 00:00:28.565392857,McLaren,13,Dutch Grand Prix
+OCO,0 days 00:01:22.110000,0 days 00:00:30.897272727,0 days 00:00:31.436416666,0 days 00:00:29.990166666,Alpine,13,Dutch Grand Prix
+PER,0 days 00:01:11.880000,0 days 00:00:31.323535714,0 days 00:00:30.265531250,0 days 00:00:28.096966666,Red Bull Racing,13,Dutch Grand Prix
+PIA,0 days 00:01:11.938000,0 days 00:00:34.441840,0 days 00:00:29.917034482,0 days 00:00:28.495857142,McLaren,13,Dutch Grand Prix
+RUS,0 days 00:01:11.294000,0 days 00:00:30.947296296,0 days 00:00:30.124100,0 days 00:00:29.253433333,Mercedes,13,Dutch Grand Prix
+SAI,0 days 00:01:11.754000,0 days 00:00:31.409038461,0 days 00:00:29.708774193,0 days 00:00:29.298000,Ferrari,13,Dutch Grand Prix
+SAR,0 days 00:01:16.748000,0 days 00:00:33.292666666,0 days 00:00:30.172961538,0 days 00:00:30.922846153,Williams,13,Dutch Grand Prix
+STR,0 days 00:01:20.121000,0 days 00:00:32.636600,0 days 00:00:30.868045454,0 days 00:00:29.176136363,Aston Martin,13,Dutch Grand Prix
+TSU,0 days 00:01:20.230000,0 days 00:00:36.519600,0 days 00:00:31.018090909,0 days 00:00:30.362000,AlphaTauri,13,Dutch Grand Prix
+VER,0 days 00:01:10.567000,0 days 00:00:30.966720,0 days 00:00:30.453068965,0 days 00:00:28.689172413,Red Bull Racing,13,Dutch Grand Prix
+ZHO,0 days 00:01:22.067000,0 days 00:00:35.113363636,0 days 00:00:30.990916666,0 days 00:00:28.957333333,Alfa Romeo,13,Dutch Grand Prix
+ALB,0 days 00:01:20.760000,0 days 00:00:30.310933333,0 days 00:00:32.755095238,0 days 00:00:32.763200,Williams,14,Italian Grand Prix
+ALO,0 days 00:01:21.417000,0 days 00:00:30.990076923,0 days 00:00:32.554263157,0 days 00:00:35.357777777,Aston Martin,14,Italian Grand Prix
+BOT,0 days 00:01:21.940000,0 days 00:00:29.920800,0 days 00:00:31.575428571,0 days 00:00:32.958642857,Alfa Romeo,14,Italian Grand Prix
+GAS,0 days 00:01:22.545000,0 days 00:00:30.711800,0 days 00:00:31.975285714,0 days 00:00:33.362714285,Alpine,14,Italian Grand Prix
+HAM,0 days 00:01:20.820000,0 days 00:00:35.118066666,0 days 00:00:32.694571428,0 days 00:00:33.311050,Mercedes,14,Italian Grand Prix
+HUL,0 days 00:01:21.776000,0 days 00:00:29.625583333,0 days 00:00:31.758250,0 days 00:00:32.879812500,Haas F1 Team,14,Italian Grand Prix
+LAW,0 days 00:01:21.758000,0 days 00:00:29.820700,0 days 00:00:32.970000,0 days 00:00:34.770133333,AlphaTauri,14,Italian Grand Prix
+LEC,0 days 00:01:20.361000,0 days 00:00:33.978500,0 days 00:00:32.828476190,0 days 00:00:33.035050,Ferrari,14,Italian Grand Prix
+MAG,0 days 00:01:22.592000,0 days 00:00:30.853000,0 days 00:00:32.832875,0 days 00:00:32.066000,Haas F1 Team,14,Italian Grand Prix
+NOR,0 days 00:01:20.979000,0 days 00:00:30.371000,0 days 00:00:32.196043478,0 days 00:00:32.132318181,McLaren,14,Italian Grand Prix
+OCO,0 days 00:01:22.548000,0 days 00:00:30.056333333,0 days 00:00:31.579625,0 days 00:00:33.757750,Alpine,14,Italian Grand Prix
+PER,0 days 00:01:20.688000,0 days 00:00:31.310800,0 days 00:00:32.616333333,0 days 00:00:32.975100,Red Bull Racing,14,Italian Grand Prix
+PIA,0 days 00:01:20.785000,0 days 00:00:30.782444444,0 days 00:00:32.099250,0 days 00:00:33.392391304,McLaren,14,Italian Grand Prix
+RUS,0 days 00:01:20.671000,0 days 00:00:34.597933333,0 days 00:00:32.796952380,0 days 00:00:32.294100,Mercedes,14,Italian Grand Prix
+SAI,0 days 00:01:20.294000,0 days 00:00:37.824866666,0 days 00:00:32.891400,0 days 00:00:34.466600,Ferrari,14,Italian Grand Prix
+SAR,0 days 00:01:21.930000,0 days 00:00:29.384818181,0 days 00:00:32.363666666,0 days 00:00:33.725533333,Williams,14,Italian Grand Prix
+STR,0 days 00:01:22.860000,0 days 00:00:30.830285714,0 days 00:00:32.188444444,0 days 00:00:31.163333333,Aston Martin,14,Italian Grand Prix
+TSU,0 days 00:01:21.594000,0 days 00:00:29.026600,0 days 00:00:32.665466666,0 days 00:00:33.452066666,AlphaTauri,14,Italian Grand Prix
+VER,0 days 00:01:20.307000,0 days 00:00:35.082375,0 days 00:00:33.528428571,0 days 00:00:32.455350,Red Bull Racing,14,Italian Grand Prix
+ZHO,0 days 00:01:22.390000,0 days 00:00:32.072166666,0 days 00:00:31.310375,0 days 00:00:33.353000,Alfa Romeo,14,Italian Grand Prix
+ALB,0 days 00:01:32.668000,0 days 00:00:32.329750,0 days 00:00:48.192833333,0 days 00:00:35.837583333,Williams,15,Singapore Grand Prix
+ALO,0 days 00:01:31.615000,0 days 00:00:30.422818181,0 days 00:00:49.911176470,0 days 00:00:40.550500,Aston Martin,15,Singapore Grand Prix
+BOT,0 days 00:01:32.809000,0 days 00:00:32.265857142,0 days 00:00:48.272444444,0 days 00:00:43.368555555,Alfa Romeo,15,Singapore Grand Prix
+GAS,0 days 00:01:32.274000,0 days 00:00:32.080250,0 days 00:00:51.054000,0 days 00:00:42.474250,Alpine,15,Singapore Grand Prix
+HAM,0 days 00:01:31.485000,0 days 00:00:30.741600,0 days 00:00:47.356687500,0 days 00:00:41.163933333,Mercedes,15,Singapore Grand Prix
+HUL,0 days 00:01:31.808000,0 days 00:00:31.411933333,0 days 00:00:48.717857142,0 days 00:00:35.161550,Haas F1 Team,15,Singapore Grand Prix
+LAW,0 days 00:01:32.166000,0 days 00:00:34.997066666,0 days 00:00:49.669809523,0 days 00:00:40.115550,AlphaTauri,15,Singapore Grand Prix
+LEC,0 days 00:01:31.063000,0 days 00:00:33.359933333,0 days 00:00:48.500428571,0 days 00:00:39.086100,Ferrari,15,Singapore Grand Prix
+MAG,0 days 00:01:31.575000,0 days 00:00:32.731666666,0 days 00:00:49.185857142,0 days 00:00:35.849650,Haas F1 Team,15,Singapore Grand Prix
+NOR,0 days 00:01:31.270000,0 days 00:00:34.004142857,0 days 00:00:50.165350,0 days 00:00:37.161105263,McLaren,15,Singapore Grand Prix
+OCO,0 days 00:01:31.673000,0 days 00:00:31.058833333,0 days 00:00:49.283055555,0 days 00:00:37.640764705,Alpine,15,Singapore Grand Prix
+PER,0 days 00:01:32.099000,0 days 00:00:35.345222222,0 days 00:00:54.509230769,0 days 00:00:43.554615384,Red Bull Racing,15,Singapore Grand Prix
+PIA,0 days 00:01:32.902000,0 days 00:00:36.285571428,0 days 00:00:50.925555555,0 days 00:00:38.470222222,McLaren,15,Singapore Grand Prix
+RUS,0 days 00:01:31.056000,0 days 00:00:32.567272727,0 days 00:00:50.158470588,0 days 00:00:39.292875,Mercedes,15,Singapore Grand Prix
+SAI,0 days 00:01:30.984000,0 days 00:00:32.636928571,0 days 00:00:47.931850,0 days 00:00:38.480052631,Ferrari,15,Singapore Grand Prix
+SAR,0 days 00:01:33.252000,0 days 00:00:36.908285714,0 days 00:00:47.653222222,0 days 00:00:34.353222222,Williams,15,Singapore Grand Prix
+STR,0 days 00:01:33.397000,0 days 00:00:32.024500,0 days 00:00:45.489250,0 days 00:00:43.044285714,Aston Martin,15,Singapore Grand Prix
+TSU,0 days 00:01:31.991000,0 days 00:00:31.955666666,0 days 00:00:53.121300,0 days 00:00:45.649000,AlphaTauri,15,Singapore Grand Prix
+VER,0 days 00:01:32.173000,0 days 00:00:32.718100,0 days 00:00:47.225142857,0 days 00:00:38.873428571,Red Bull Racing,15,Singapore Grand Prix
+ZHO,0 days 00:01:33.258000,0 days 00:00:33.941285714,0 days 00:00:48.733666666,0 days 00:00:37.004444444,Alfa Romeo,15,Singapore Grand Prix
+ALB,0 days 00:01:30.537000,0 days 00:00:35.616428571,0 days 00:00:47.234909090,0 days 00:00:22.117181818,Williams,16,Japanese Grand Prix
+ALO,0 days 00:01:30.465000,0 days 00:00:36.437400,0 days 00:00:48.229857142,0 days 00:00:22.467642857,Aston Martin,16,Japanese Grand Prix
+BOT,0 days 00:01:31.049000,0 days 00:00:35.762000,0 days 00:00:49.740400,0 days 00:00:21.336500,Alfa Romeo,16,Japanese Grand Prix
+GAS,0 days 00:01:30.509000,0 days 00:00:38.942428571,0 days 00:00:47.198727272,0 days 00:00:22.054636363,Alpine,16,Japanese Grand Prix
+HAM,0 days 00:01:29.908000,0 days 00:00:35.197250,0 days 00:00:47.718888888,0 days 00:00:21.634588235,Mercedes,16,Japanese Grand Prix
+HUL,0 days 00:01:31.299000,0 days 00:00:36.321500,0 days 00:00:47.919333333,0 days 00:00:22.379400,Haas F1 Team,16,Japanese Grand Prix
+LAW,0 days 00:01:30.425000,0 days 00:00:41.272545454,0 days 00:00:47.301333333,0 days 00:00:22.932066666,AlphaTauri,16,Japanese Grand Prix
+LEC,0 days 00:01:29.542000,0 days 00:00:36.571000,0 days 00:00:47.567000,0 days 00:00:23.773384615,Ferrari,16,Japanese Grand Prix
+MAG,0 days 00:01:30.665000,0 days 00:00:36.362666666,0 days 00:00:47.425555555,0 days 00:00:22.255500,Haas F1 Team,16,Japanese Grand Prix
+NOR,0 days 00:01:29.493000,0 days 00:00:36.221125,0 days 00:00:46.748818181,0 days 00:00:22.529636363,McLaren,16,Japanese Grand Prix
+OCO,0 days 00:01:30.586000,0 days 00:00:36.572375,0 days 00:00:48.496181818,0 days 00:00:22.336363636,Alpine,16,Japanese Grand Prix
+PER,0 days 00:01:29.650000,0 days 00:00:36.955166666,0 days 00:00:47.598888888,0 days 00:00:22.446529411,Red Bull Racing,16,Japanese Grand Prix
+PIA,0 days 00:01:29.458000,0 days 00:00:35.428375,0 days 00:00:48.364923076,0 days 00:00:23.719230769,McLaren,16,Japanese Grand Prix
+RUS,0 days 00:01:30.219000,0 days 00:00:38.415500,0 days 00:00:48.543266666,0 days 00:00:21.881785714,Mercedes,16,Japanese Grand Prix
+SAI,0 days 00:01:29.850000,0 days 00:00:37.415777777,0 days 00:00:48.572846153,0 days 00:00:22.816000,Ferrari,16,Japanese Grand Prix
+SAR,,0 days 00:00:32.171000,0 days 00:00:45.661500,0 days 00:00:21.822000,Williams,16,Japanese Grand Prix
+STR,0 days 00:01:31.181000,0 days 00:00:35.396250,0 days 00:00:47.974000,0 days 00:00:22.868500,Aston Martin,16,Japanese Grand Prix
+TSU,0 days 00:01:30.204000,0 days 00:00:35.737583333,0 days 00:00:47.508529411,0 days 00:00:23.350882352,AlphaTauri,16,Japanese Grand Prix
+VER,0 days 00:01:28.877000,0 days 00:00:36.374750,0 days 00:00:48.047583333,0 days 00:00:21.565818181,Red Bull Racing,16,Japanese Grand Prix
+ZHO,0 days 00:01:31.379000,0 days 00:00:37.017000,0 days 00:00:48.276600,0 days 00:00:21.392000,Alfa Romeo,16,Japanese Grand Prix
+ALB,0 days 00:01:25.707000,0 days 00:00:35.762909090,0 days 00:00:33.083266666,0 days 00:00:31.676733333,Williams,17,Qatar Grand Prix
+ALO,0 days 00:01:24.369000,0 days 00:00:36.711000,0 days 00:00:34.263285714,0 days 00:00:31.588300,Aston Martin,17,Qatar Grand Prix
+BOT,0 days 00:01:25.058000,0 days 00:00:36.051571428,0 days 00:00:32.914095238,0 days 00:00:32.214650,Alfa Romeo,17,Qatar Grand Prix
+GAS,0 days 00:01:24.553000,0 days 00:00:36.849470588,0 days 00:00:33.094304347,0 days 00:00:31.121045454,Alpine,17,Qatar Grand Prix
+HAM,0 days 00:01:24.305000,0 days 00:00:35.907571428,0 days 00:00:32.863400,0 days 00:00:31.906421052,Mercedes,17,Qatar Grand Prix
+HUL,0 days 00:01:25.547000,0 days 00:00:34.950125,0 days 00:00:32.492916666,0 days 00:00:33.159250,Haas F1 Team,17,Qatar Grand Prix
+LAW,0 days 00:01:26.635000,0 days 00:00:38.194500,0 days 00:00:33.920600,0 days 00:00:31.748400,AlphaTauri,17,Qatar Grand Prix
+LEC,0 days 00:01:24.424000,0 days 00:00:35.825761904,0 days 00:00:33.689346153,0 days 00:00:30.721360,Ferrari,17,Qatar Grand Prix
+MAG,0 days 00:01:27.046000,0 days 00:00:36.515000,0 days 00:00:32.233888888,0 days 00:00:31.537666666,Haas F1 Team,17,Qatar Grand Prix
+NOR,0 days 00:01:24.074000,0 days 00:00:35.620466666,0 days 00:00:32.576523809,0 days 00:00:32.442523809,McLaren,17,Qatar Grand Prix
+OCO,0 days 00:01:24.763000,0 days 00:00:36.606500,0 days 00:00:32.556083333,0 days 00:00:31.233956521,Alpine,17,Qatar Grand Prix
+PER,0 days 00:01:25.275000,0 days 00:00:37.422583333,0 days 00:00:32.407437500,0 days 00:00:30.413250,Red Bull Racing,17,Qatar Grand Prix
+PIA,0 days 00:01:24.228000,0 days 00:00:35.902411764,0 days 00:00:33.091217391,0 days 00:00:31.206409090,McLaren,17,Qatar Grand Prix
+RUS,0 days 00:01:24.219000,0 days 00:00:38.699866666,0 days 00:00:32.947714285,0 days 00:00:32.111523809,Mercedes,17,Qatar Grand Prix
+SAI,0 days 00:01:25.328000,0 days 00:00:38.457666666,0 days 00:00:33.338555555,0 days 00:00:31.471888888,Ferrari,17,Qatar Grand Prix
+SAR,0 days 00:01:26.210000,0 days 00:00:36.223000,0 days 00:00:32.852000,0 days 00:00:33.382400,Williams,17,Qatar Grand Prix
+STR,0 days 00:01:26.345000,0 days 00:00:35.472625,0 days 00:00:34.418800,0 days 00:00:31.272700,Aston Martin,17,Qatar Grand Prix
+TSU,0 days 00:01:25.301000,0 days 00:00:37.593583333,0 days 00:00:34.024562500,0 days 00:00:33.280812500,AlphaTauri,17,Qatar Grand Prix
+VER,0 days 00:01:23.778000,0 days 00:00:35.985461538,0 days 00:00:32.804052631,0 days 00:00:29.954444444,Red Bull Racing,17,Qatar Grand Prix
+ZHO,0 days 00:01:27.432000,0 days 00:00:35.723833333,0 days 00:00:33.782555555,0 days 00:00:34.150222222,Alfa Romeo,17,Qatar Grand Prix
+ALB,0 days 00:01:36.315000,0 days 00:00:30.064750,0 days 00:00:43.805333333,0 days 00:00:37.962166666,Williams,18,United States Grand Prix
+ALO,0 days 00:01:36.268000,0 days 00:00:33.345000,0 days 00:00:45.328625,0 days 00:00:37.784250,Aston Martin,18,United States Grand Prix
+BOT,0 days 00:01:35.858000,0 days 00:00:31.035090909,0 days 00:00:45.215000,0 days 00:00:38.850066666,Alfa Romeo,18,United States Grand Prix
+GAS,0 days 00:01:35.089000,0 days 00:00:29.725000,0 days 00:00:45.058526315,0 days 00:00:38.145222222,Alpine,18,United States Grand Prix
+HAM,0 days 00:01:34.862000,0 days 00:00:28.878083333,0 days 00:00:44.727777777,0 days 00:00:37.775611111,Mercedes,18,United States Grand Prix
+HUL,0 days 00:01:36.235000,0 days 00:00:27.898500,0 days 00:00:43.730666666,0 days 00:00:38.487833333,Haas F1 Team,18,United States Grand Prix
+LEC,0 days 00:01:34.723000,0 days 00:00:30.567333333,0 days 00:00:45.408142857,0 days 00:00:38.462857142,Ferrari,18,United States Grand Prix
+MAG,0 days 00:01:35.880000,0 days 00:00:30.067375,0 days 00:00:44.411333333,0 days 00:00:37.491583333,Haas F1 Team,18,United States Grand Prix
+NOR,0 days 00:01:34.853000,0 days 00:00:30.457000,0 days 00:00:45.081850,0 days 00:00:38.199800,McLaren,18,United States Grand Prix
+OCO,0 days 00:01:35.154000,0 days 00:00:31.429333333,0 days 00:00:45.120333333,0 days 00:00:37.969100,Alpine,18,United States Grand Prix
+PER,0 days 00:01:35.173000,0 days 00:00:29.682727272,0 days 00:00:45.891705882,0 days 00:00:39.534937500,Red Bull Racing,18,United States Grand Prix
+PIA,0 days 00:01:35.467000,0 days 00:00:30.349142857,0 days 00:00:44.854700,0 days 00:00:39.511368421,McLaren,18,United States Grand Prix
+RIC,0 days 00:01:35.974000,0 days 00:00:29.643875,0 days 00:00:44.752416666,0 days 00:00:39.292000,AlphaTauri,18,United States Grand Prix
+RUS,0 days 00:01:35.079000,0 days 00:00:31.065833333,0 days 00:00:45.472166666,0 days 00:00:38.945117647,Mercedes,18,United States Grand Prix
+SAI,0 days 00:01:34.945000,0 days 00:00:30.628250,0 days 00:00:46.089277777,0 days 00:00:37.677500,Ferrari,18,United States Grand Prix
+SAR,0 days 00:01:36.827000,0 days 00:00:27.681200,0 days 00:00:43.644000,0 days 00:00:38.423750,Williams,18,United States Grand Prix
+STR,0 days 00:01:36.589000,0 days 00:00:34.875428571,0 days 00:00:43.600777777,0 days 00:00:40.177333333,Aston Martin,18,United States Grand Prix
+TSU,0 days 00:01:35.697000,0 days 00:00:28.855000,0 days 00:00:44.967833333,0 days 00:00:38.958083333,AlphaTauri,18,United States Grand Prix
+VER,0 days 00:01:34.718000,0 days 00:00:28.843666666,0 days 00:00:44.160333333,0 days 00:00:36.114055555,Red Bull Racing,18,United States Grand Prix
+ZHO,0 days 00:01:35.698000,0 days 00:00:30.306636363,0 days 00:00:45.373666666,0 days 00:00:39.161800,Alfa Romeo,18,United States Grand Prix
+ALB,0 days 00:01:18.302000,0 days 00:00:30.227375,0 days 00:00:35.941916666,0 days 00:00:24.526500,Williams,19,Mexico City Grand Prix
+ALO,0 days 00:01:18.738000,0 days 00:00:38.448200,0 days 00:00:35.798571428,0 days 00:00:25.845857142,Aston Martin,19,Mexico City Grand Prix
+BOT,0 days 00:01:18.016000,0 days 00:00:31.789636363,0 days 00:00:35.739941176,0 days 00:00:25.623176470,Alfa Romeo,19,Mexico City Grand Prix
+GAS,0 days 00:01:18.521000,0 days 00:00:31.078700,0 days 00:00:35.529733333,0 days 00:00:24.838200,Alpine,19,Mexico City Grand Prix
+HAM,0 days 00:01:17.454000,0 days 00:00:31.087750,0 days 00:00:36.859388888,0 days 00:00:25.243941176,Mercedes,19,Mexico City Grand Prix
+HUL,0 days 00:01:18.524000,0 days 00:00:30.313125,0 days 00:00:34.821416666,0 days 00:00:23.920000,Haas F1 Team,19,Mexico City Grand Prix
+LEC,0 days 00:01:17.166000,0 days 00:00:31.046090909,0 days 00:00:36.224470588,0 days 00:00:25.724176470,Ferrari,19,Mexico City Grand Prix
+MAG,0 days 00:01:19.163000,0 days 00:00:32.890333333,0 days 00:00:34.220333333,0 days 00:00:24.505444444,Haas F1 Team,19,Mexico City Grand Prix
+NOR,0 days 00:01:21.554000,0 days 00:00:30.824250,0 days 00:00:34.559666666,0 days 00:00:29.180333333,McLaren,19,Mexico City Grand Prix
+OCO,0 days 00:01:19.080000,0 days 00:00:32.003750,0 days 00:00:36.731833333,0 days 00:00:25.092833333,Alpine,19,Mexico City Grand Prix
+PER,0 days 00:01:17.423000,0 days 00:00:32.542500,0 days 00:00:35.166937500,0 days 00:00:24.261133333,Red Bull Racing,19,Mexico City Grand Prix
+PIA,0 days 00:01:17.623000,0 days 00:00:31.195416666,0 days 00:00:34.447055555,0 days 00:00:25.000277777,McLaren,19,Mexico City Grand Prix
+RIC,0 days 00:01:17.382000,0 days 00:00:30.951500,0 days 00:00:35.822866666,0 days 00:00:25.424000,AlphaTauri,19,Mexico City Grand Prix
+RUS,0 days 00:01:17.673000,0 days 00:00:31.707846153,0 days 00:00:37.363157894,0 days 00:00:24.984222222,Mercedes,19,Mexico City Grand Prix
+SAI,0 days 00:01:17.233000,0 days 00:00:32.214727272,0 days 00:00:36.271411764,0 days 00:00:25.326058823,Ferrari,19,Mexico City Grand Prix
+SAR,0 days 00:01:19.965000,0 days 00:00:30.725500,0 days 00:00:36.103833333,0 days 00:00:27.934666666,Williams,19,Mexico City Grand Prix
+STR,0 days 00:01:19.227000,0 days 00:00:39.472714285,0 days 00:00:35.820111111,0 days 00:00:26.005222222,Aston Martin,19,Mexico City Grand Prix
+TSU,0 days 00:01:18.890000,0 days 00:00:33.227857142,0 days 00:00:35.933545454,0 days 00:00:25.387545454,AlphaTauri,19,Mexico City Grand Prix
+VER,0 days 00:01:17.263000,0 days 00:00:31.070100,0 days 00:00:35.562266666,0 days 00:00:23.981466666,Red Bull Racing,19,Mexico City Grand Prix
+ZHO,0 days 00:01:18.050000,0 days 00:00:31.696900,0 days 00:00:36.694933333,0 days 00:00:26.553200,Alfa Romeo,19,Mexico City Grand Prix
+ALB,0 days 00:01:10.621000,0 days 00:00:23.636454545,0 days 00:00:44.061733333,0 days 00:00:19.458933333,Williams,20,São Paulo Grand Prix
+ALO,0 days 00:01:10.237000,0 days 00:00:22.040333333,0 days 00:00:43.466777777,0 days 00:00:20.251444444,Aston Martin,20,São Paulo Grand Prix
+BOT,0 days 00:01:10.955000,0 days 00:00:22.360714285,0 days 00:00:44.223666666,0 days 00:00:19.276444444,Alfa Romeo,20,São Paulo Grand Prix
+GAS,0 days 00:01:10.567000,0 days 00:00:20.160777777,0 days 00:00:44.857142857,0 days 00:00:20.222571428,Alpine,20,São Paulo Grand Prix
+HAM,0 days 00:01:10.266000,0 days 00:00:25.672437500,0 days 00:00:42.651095238,0 days 00:00:19.740476190,Mercedes,20,São Paulo Grand Prix
+HUL,0 days 00:01:10.475000,0 days 00:00:20.237700,0 days 00:00:42.047533333,0 days 00:00:19.758000,Haas F1 Team,20,São Paulo Grand Prix
+LEC,0 days 00:01:10.303000,0 days 00:00:24.431500,0 days 00:00:42.150944444,0 days 00:00:19.774388888,Ferrari,20,São Paulo Grand Prix
+MAG,0 days 00:01:10.602000,0 days 00:00:20.744500,0 days 00:00:42.453066666,0 days 00:00:19.078333333,Haas F1 Team,20,São Paulo Grand Prix
+NOR,0 days 00:01:10.021000,0 days 00:00:21.030875,0 days 00:00:42.720153846,0 days 00:00:20.799307692,McLaren,20,São Paulo Grand Prix
+OCO,0 days 00:01:10.562000,0 days 00:00:20.486500,0 days 00:00:43.374866666,0 days 00:00:20.521133333,Alpine,20,São Paulo Grand Prix
+PER,0 days 00:01:10.219000,0 days 00:00:20.380727272,0 days 00:00:42.275117647,0 days 00:00:20.551823529,Red Bull Racing,20,São Paulo Grand Prix
+PIA,0 days 00:01:10.330000,0 days 00:00:20.726000,0 days 00:00:45.014666666,0 days 00:00:21.611600,McLaren,20,São Paulo Grand Prix
+RIC,0 days 00:01:10.843000,0 days 00:00:20.799500,0 days 00:00:44.133166666,0 days 00:00:20.208500,AlphaTauri,20,São Paulo Grand Prix
+RUS,0 days 00:01:10.316000,0 days 00:00:24.999750,0 days 00:00:43.896000,0 days 00:00:20.047000,Mercedes,20,São Paulo Grand Prix
+SAI,0 days 00:01:10.254000,0 days 00:00:26.393800,0 days 00:00:43.674650,0 days 00:00:20.170550,Ferrari,20,São Paulo Grand Prix
+SAR,0 days 00:01:11.035000,0 days 00:00:24.885857142,0 days 00:00:43.641333333,0 days 00:00:19.998777777,Williams,20,São Paulo Grand Prix
+STR,0 days 00:01:10.375000,0 days 00:00:20.096800,0 days 00:00:42.530937500,0 days 00:00:20.661500,Aston Martin,20,São Paulo Grand Prix
+TSU,0 days 00:01:10.837000,0 days 00:00:20.120000,0 days 00:00:43.401888888,0 days 00:00:20.264222222,AlphaTauri,20,São Paulo Grand Prix
+VER,0 days 00:01:10.162000,0 days 00:00:20.422500,0 days 00:00:42.078111111,0 days 00:00:19.097111111,Red Bull Racing,20,São Paulo Grand Prix
+ZHO,0 days 00:01:11.275000,0 days 00:00:21.810571428,0 days 00:00:45.337555555,0 days 00:00:19.404000,Alfa Romeo,20,São Paulo Grand Prix
+ALB,0 days 00:01:33.323000,0 days 00:00:32.114125,0 days 00:00:37.708714285,0 days 00:00:40.861300,Williams,21,Las Vegas Grand Prix
+ALO,0 days 00:01:33.555000,0 days 00:00:30.112526315,0 days 00:00:35.780208333,0 days 00:00:42.112391304,Aston Martin,21,Las Vegas Grand Prix
+BOT,0 days 00:01:33.525000,0 days 00:00:33.217533333,0 days 00:00:36.542526315,0 days 00:00:42.964333333,Alfa Romeo,21,Las Vegas Grand Prix
+GAS,0 days 00:01:33.239000,0 days 00:00:30.218894736,0 days 00:00:34.662600,0 days 00:00:41.703291666,Alpine,21,Las Vegas Grand Prix
+HAM,0 days 00:01:33.837000,0 days 00:00:32.646307692,0 days 00:00:38.237000,0 days 00:00:41.299666666,Mercedes,21,Las Vegas Grand Prix
+HUL,0 days 00:01:33.979000,0 days 00:00:30.764923076,0 days 00:00:35.317705882,0 days 00:00:41.495294117,Haas F1 Team,21,Las Vegas Grand Prix
+LEC,0 days 00:01:32.726000,0 days 00:00:32.534315789,0 days 00:00:35.768304347,0 days 00:00:43.159478260,Ferrari,21,Las Vegas Grand Prix
+MAG,0 days 00:01:33.537000,0 days 00:00:30.315529411,0 days 00:00:34.872913043,0 days 00:00:41.559136363,Haas F1 Team,21,Las Vegas Grand Prix
+NOR,0 days 00:01:34.703000,0 days 00:00:30.657625,0 days 00:00:37.184888888,0 days 00:00:42.530111111,McLaren,21,Las Vegas Grand Prix
+OCO,0 days 00:01:34.834000,0 days 00:00:30.403625,0 days 00:00:34.356500,0 days 00:00:41.866800,Alpine,21,Las Vegas Grand Prix
+PER,0 days 00:01:33.855000,0 days 00:00:32.801272727,0 days 00:00:36.119714285,0 days 00:00:44.300357142,Red Bull Racing,21,Las Vegas Grand Prix
+PIA,0 days 00:01:34.850000,0 days 00:00:32.014111111,0 days 00:00:37.744500,0 days 00:00:40.967300,McLaren,21,Las Vegas Grand Prix
+RIC,0 days 00:01:34.308000,0 days 00:00:29.770785714,0 days 00:00:35.443222222,0 days 00:00:44.030944444,AlphaTauri,21,Las Vegas Grand Prix
+RUS,0 days 00:01:33.112000,0 days 00:00:32.637947368,0 days 00:00:38.355818181,0 days 00:00:42.109190476,Mercedes,21,Las Vegas Grand Prix
+SAI,0 days 00:01:32.770000,0 days 00:00:34.402263157,0 days 00:00:36.923565217,0 days 00:00:42.769260869,Ferrari,21,Las Vegas Grand Prix
+SAR,0 days 00:01:33.513000,0 days 00:00:34.416722222,0 days 00:00:36.313826086,0 days 00:00:40.703363636,Williams,21,Las Vegas Grand Prix
+STR,0 days 00:01:34.199000,0 days 00:00:30.319800,0 days 00:00:34.202055555,0 days 00:00:42.191166666,Aston Martin,21,Las Vegas Grand Prix
+TSU,0 days 00:01:36.447000,0 days 00:00:32.978857142,0 days 00:00:37.669888888,0 days 00:00:42.852555555,AlphaTauri,21,Las Vegas Grand Prix
+VER,0 days 00:01:33.104000,0 days 00:00:32.389066666,0 days 00:00:35.182421052,0 days 00:00:44.713947368,Red Bull Racing,21,Las Vegas Grand Prix
+ZHO,0 days 00:01:34.849000,0 days 00:00:31.970625,0 days 00:00:36.466400,0 days 00:00:42.213800,Alfa Romeo,21,Las Vegas Grand Prix
+ALB,0 days 00:01:24.298000,0 days 00:00:19.356000,0 days 00:00:41.742250,0 days 00:00:38.374666666,Williams,22,Abu Dhabi Grand Prix
+ALO,0 days 00:01:24.084000,0 days 00:00:19.889250,0 days 00:00:43.210055555,0 days 00:00:38.379000,Aston Martin,22,Abu Dhabi Grand Prix
+BOT,0 days 00:01:24.788000,0 days 00:00:19.586500,0 days 00:00:42.538666666,0 days 00:00:38.911666666,Alfa Romeo,22,Abu Dhabi Grand Prix
+GAS,0 days 00:01:24.078000,0 days 00:00:19.373250,0 days 00:00:43.050777777,0 days 00:00:38.366470588,Alpine,22,Abu Dhabi Grand Prix
+HAM,0 days 00:01:24.359000,0 days 00:00:19.904250,0 days 00:00:43.613916666,0 days 00:00:37.267416666,Mercedes,22,Abu Dhabi Grand Prix
+HUL,0 days 00:01:24.108000,0 days 00:00:18.357833333,0 days 00:00:42.396666666,0 days 00:00:37.695500,Haas F1 Team,22,Abu Dhabi Grand Prix
+LEC,0 days 00:01:23.584000,0 days 00:00:19.397750,0 days 00:00:42.261222222,0 days 00:00:37.968000,Ferrari,22,Abu Dhabi Grand Prix
+MAG,0 days 00:01:24.764000,0 days 00:00:18.499250,0 days 00:00:42.291666666,0 days 00:00:37.153000,Haas F1 Team,22,Abu Dhabi Grand Prix
+NOR,0 days 00:01:23.816000,0 days 00:00:19.357900,0 days 00:00:43.516125,0 days 00:00:37.705625,McLaren,22,Abu Dhabi Grand Prix
+OCO,0 days 00:01:24.391000,0 days 00:00:19.065875,0 days 00:00:42.906500,0 days 00:00:38.619500,Alpine,22,Abu Dhabi Grand Prix
+PER,0 days 00:01:23.868000,0 days 00:00:19.181090909,0 days 00:00:42.944294117,0 days 00:00:38.690764705,Red Bull Racing,22,Abu Dhabi Grand Prix
+PIA,0 days 00:01:23.782000,0 days 00:00:19.169090909,0 days 00:00:42.799117647,0 days 00:00:38.544882352,McLaren,22,Abu Dhabi Grand Prix
+RIC,0 days 00:01:24.442000,0 days 00:00:19.733250,0 days 00:00:43.719583333,0 days 00:00:38.422750,AlphaTauri,22,Abu Dhabi Grand Prix
+RUS,0 days 00:01:23.788000,0 days 00:00:21.152083333,0 days 00:00:42.123444444,0 days 00:00:39.142944444,Mercedes,22,Abu Dhabi Grand Prix
+SAI,0 days 00:01:24.738000,0 days 00:00:19.242750,0 days 00:00:43.062833333,0 days 00:00:40.225500,Ferrari,22,Abu Dhabi Grand Prix
+SAR,0 days 00:01:24.532000,0 days 00:00:20.809000,0 days 00:00:40.441500,0 days 00:00:38.669833333,Williams,22,Abu Dhabi Grand Prix
+STR,0 days 00:01:24.405000,0 days 00:00:19.434000,0 days 00:00:41.830750,0 days 00:00:40.075083333,Aston Martin,22,Abu Dhabi Grand Prix
+TSU,0 days 00:01:23.968000,0 days 00:00:19.406500,0 days 00:00:43.061833333,0 days 00:00:37.429222222,AlphaTauri,22,Abu Dhabi Grand Prix
+VER,0 days 00:01:23.445000,0 days 00:00:19.492100,0 days 00:00:42.900533333,0 days 00:00:38.002133333,Red Bull Racing,22,Abu Dhabi Grand Prix
+ZHO,0 days 00:01:25.114000,0 days 00:00:19.609250,0 days 00:00:42.091333333,0 days 00:00:39.599166666,Alfa Romeo,22,Abu Dhabi Grand Prix

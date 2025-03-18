@@ -1,0 +1,21 @@
+Year,RoundNumber,EventName,Abbreviation,FullName,QualiTeam,BestQualiLap,AvgSector1,AvgSector2,AvgSector3,RaceTeam,FinalPosition,GridPosition,Points,Status
+2025,1,Australian Grand Prix,ALB,Alexander Albon,Williams,0 days 00:01:15.737000,0 days 00:00:40.221100,0 days 00:00:19.333700,0 days 00:00:37.453800,Williams,5.0,6.0,10.0,Finished
+2025,1,Australian Grand Prix,ALO,Fernando Alonso,Aston Martin,0 days 00:01:16.288000,0 days 00:00:41.518461538,0 days 00:00:19.653923076,0 days 00:00:37.731750,Aston Martin,17.0,12.0,0.0,Retired
+2025,1,Australian Grand Prix,ANT,Andrea Kimi Antonelli,Mercedes,0 days 00:01:16.525000,0 days 00:00:37.631888888,0 days 00:00:20.711555555,0 days 00:00:38.636285714,Mercedes,4.0,16.0,12.0,Finished
+2025,1,Australian Grand Prix,BEA,Oliver Bearman,Haas F1 Team,,,0 days 00:00:33.462000,,Haas F1 Team,14.0,20.0,0.0,Finished
+2025,1,Australian Grand Prix,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:16.516000,0 days 00:00:41.563923076,0 days 00:00:20.917692307,0 days 00:00:41.165888888,Kick Sauber,16.0,15.0,0.0,Retired
+2025,1,Australian Grand Prix,DOO,Jack Doohan,Alpine,0 days 00:01:16.315000,0 days 00:00:41.586866666,0 days 00:00:19.894000,0 days 00:00:39.055090909,Alpine,19.0,14.0,0.0,Retired
+2025,1,Australian Grand Prix,GAS,Pierre Gasly,Alpine,0 days 00:01:15.980000,0 days 00:00:40.880300,0 days 00:00:19.710450,0 days 00:00:38.077266666,Alpine,11.0,9.0,0.0,Finished
+2025,1,Australian Grand Prix,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:16.175000,0 days 00:00:43.230000,0 days 00:00:19.058416666,0 days 00:00:37.759750,Racing Bulls,20.0,11.0,0.0,Retired
+2025,1,Australian Grand Prix,HAM,Lewis Hamilton,Ferrari,0 days 00:01:15.919000,0 days 00:00:40.570454545,0 days 00:00:20.217045454,0 days 00:00:39.682529411,Ferrari,10.0,8.0,1.0,Finished
+2025,1,Australian Grand Prix,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:16.579000,0 days 00:00:40.654777777,0 days 00:00:19.625888888,0 days 00:00:39.115500,Kick Sauber,7.0,17.0,6.0,Finished
+2025,1,Australian Grand Prix,LAW,Liam Lawson,Red Bull Racing,0 days 00:01:17.094000,0 days 00:00:40.952714285,0 days 00:00:21.474571428,0 days 00:00:39.000250,Red Bull Racing,15.0,18.0,0.0,Retired
+2025,1,Australian Grand Prix,LEC,Charles Leclerc,Ferrari,0 days 00:01:15.755000,0 days 00:00:38.932550,0 days 00:00:19.641550,0 days 00:00:39.249923076,Ferrari,8.0,7.0,4.0,Finished
+2025,1,Australian Grand Prix,NOR,Lando Norris,McLaren,0 days 00:01:15.096000,0 days 00:00:39.252650,0 days 00:00:20.986750,0 days 00:00:37.834642857,McLaren,1.0,1.0,25.0,Finished
+2025,1,Australian Grand Prix,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:17.147000,0 days 00:00:39.535875,0 days 00:00:19.971333333,0 days 00:00:37.668500,Haas F1 Team,13.0,19.0,0.0,Finished
+2025,1,Australian Grand Prix,PIA,Oscar Piastri,McLaren,0 days 00:01:15.180000,0 days 00:00:37.883333333,0 days 00:00:20.102722222,0 days 00:00:39.403166666,McLaren,9.0,2.0,2.0,Finished
+2025,1,Australian Grand Prix,RUS,George Russell,Mercedes,0 days 00:01:15.546000,0 days 00:00:37.627578947,0 days 00:00:19.894450,0 days 00:00:39.031928571,Mercedes,3.0,4.0,15.0,Finished
+2025,1,Australian Grand Prix,SAI,Carlos Sainz,Williams,0 days 00:01:15.931000,0 days 00:00:38.729400,0 days 00:00:20.063650,0 days 00:00:38.597333333,Williams,18.0,10.0,0.0,Retired
+2025,1,Australian Grand Prix,STR,Lance Stroll,Aston Martin,0 days 00:01:16.369000,0 days 00:00:38.534466666,0 days 00:00:19.763533333,0 days 00:00:37.512500,Aston Martin,6.0,13.0,8.0,Finished
+2025,1,Australian Grand Prix,TSU,Yuki Tsunoda,Racing Bulls,0 days 00:01:15.670000,0 days 00:00:40.561235294,0 days 00:00:20.239764705,0 days 00:00:37.120833333,Racing Bulls,12.0,5.0,0.0,Finished
+2025,1,Australian Grand Prix,VER,Max Verstappen,Red Bull Racing,0 days 00:01:15.481000,0 days 00:00:38.196941176,0 days 00:00:20.523529411,0 days 00:00:36.088000,Red Bull Racing,2.0,3.0,18.0,Finished
