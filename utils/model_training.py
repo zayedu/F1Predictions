@@ -140,10 +140,10 @@ def train_model(df):
     y = df[target_col]
 
     # Train/test split.
-    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=402)
 
     # Train a Gradient Boosting Regressor.
-    model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=6, random_state=42)
+    model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=6, random_state=402)
     model.fit(X_train, y_train)
 
     y_pred = model.predict(X_val)
